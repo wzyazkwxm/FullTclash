@@ -3,9 +3,9 @@
 admin:
 - 12345678 #管理员，此处写你的账户id或用户名，必须配置该项，否则程序会自动退出
 bot:
- api_id: 123456 # Telegram的api_id
- api_hash: ABCDEFG # Telegram的api_hash
- bot_token: 123456:ABCDEFG #bot的token
+ api_id: 20805330 # Telegram的api_id
+ api_hash: abd8a39c51b8872a9d0e1388f17e9cae # Telegram的api_hash
+ bot_token: 6944924897:AAF5BJayQiYhv23y471dY3vvMBZCrf043to #bot的token
 # ====================以上为必填项，否则无法启动成功========================
 # proxy: host:端口:用户名:密码 #socks5代理，用户名和密码为可选配置，已和下面的proxy单独分离，请勿混用
 # strictmode: false # 严格模式，代表测试的时侯，bot内联按钮只有发起测试的主人才能按，否则所有用户用户权限都可以按。默认false，目前未适配，敬请期待。
